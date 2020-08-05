@@ -1,8 +1,0 @@
-Name = "Osaretin Alexander Giegbefumwen"
-Email = "osas.giegbe@gmail.com"
-language_used = "Python"
-Biostack_slack_username = "@Dachoice"
-print(Name)
-print(Email)
-print(language_used)
-print(Biostack_slack_username)
