@@ -7,4 +7,4 @@ clear #clear the terminal
 chmod +x stage0.sh #add execute permissions
 ./stage0.sh | awk -vORS=, '{print}' | sed 's/,$/\n/' #@kanye
 python Added\ my\ script | awk -vORS=, '{print}' | sed 's/,$/\n/' #@Dachoice
-python kazim | awk -vORS=, '{print}' | cut -d":" -f2 | sed 's/,$/\n/' #@Kazim
+python kazim | awk -vORS=, '{print}' | sed 's/,$/\n/' #@Kazim
