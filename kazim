@@ -1,4 +1,4 @@
-print("Name:Kazim Ali")
-print("Email:kazimujan@gmail.com")
-print("Language:Python")
-print("Slack username:@Kazim")
+print("Kazim Ali")
+print("kazimujan@gmail.com")
+print("Python")
+print("@Kazim")
